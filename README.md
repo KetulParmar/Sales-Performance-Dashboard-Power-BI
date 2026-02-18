@@ -2,9 +2,7 @@
 Interactive multi-page Sales Analytics Dashboard built using Power BI
 
 📊 Sales Performance Analytics Dashboard
-
 📌 Project Overview
-
 This project presents a multi-page interactive Sales Performance Dashboard built using Microsoft Power BI.
 The objective was to analyze revenue, profitability, product performance, and regional trends to derive actionable business insights.
 
@@ -15,6 +13,7 @@ DAX (Data Analysis Expressions)
 Data Modeling
 Excel (Data Source)
 
+
 📈 Dashboard Structure
 🔹 Page 1 – Executive Overview
   KPI Cards (Total Sales, Profit, Quantity, Profit Margin)
@@ -23,22 +22,26 @@ Excel (Data Source)
   Profit by Category
   Key Business Insights
 
+
 🔹 Page 2 – Product Analysis
   Top 10 Products by Sales
   Profit by Product
   Quantity Distribution
   Product-level Insights
 
+
 🔹 Page 3 – Regional Analysis
   Sales Distribution Map
   Profit by State
   Yearly Profit Trend
+
 
 💡 Key Insights
 Revenue peaks in December.
 New York generates the highest revenue.
 Office Supplies contribute the highest profit.
 Certain products show high sales but lower profit margins.
+
 
 🎯 Skills Demonstrated
 Data Cleaning & Transformation
@@ -53,8 +56,10 @@ Interactive Filtering & Visual Storytelling
 <img width="911" height="516" alt="Product-Analysis" src="https://github.com/user-attachments/assets/08e5a911-9603-40a2-a978-e8d280118c39" />
 <img width="914" height="519" alt="Regional-Analysis" src="https://github.com/user-attachments/assets/88a0ebf4-d91f-4526-a515-3a031ca6cc75" />
 
-📂 Files Included
 
+📂 Files Included
 Sales_Dashboard.pbix
 Sales_Data.xlsx
 Dashboard screenshots
+
+
