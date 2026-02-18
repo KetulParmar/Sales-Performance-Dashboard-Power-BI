@@ -2,9 +2,12 @@
 Interactive multi-page Sales Analytics Dashboard built using Power BI
 
 📊 Sales Performance Analytics Dashboard
+
 📌 Project Overview
+
 This project presents a multi-page interactive Sales Performance Dashboard built using Microsoft Power BI.
 The objective was to analyze revenue, profitability, product performance, and regional trends to derive actionable business insights.
+
 
 🛠 Tools Used
 Microsoft Power BI
