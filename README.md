@@ -4,7 +4,9 @@ Interactive multi-page Sales Analytics Dashboard built using Power BI
 📊 Sales Performance Analytics Dashboard
 
 📌 Project Overview
+
 This project presents a multi-page interactive Sales Performance Dashboard built using Microsoft Power BI.
+
 The objective was to analyze revenue, profitability, product performance, and regional trends to derive actionable business insights.
 
 🛠 Tools Used
@@ -51,8 +53,13 @@ Interactive Filtering & Visual Storytelling
 <img width="914" height="519" alt="Regional-Analysis" src="https://github.com/user-attachments/assets/88a0ebf4-d91f-4526-a515-3a031ca6cc75" />
 
 📂 Files Included
+
 Sales_Dashboard.pbix
+
 Sales_Data.xlsx
+
 Dashboard screenshots
+
+
 
 
